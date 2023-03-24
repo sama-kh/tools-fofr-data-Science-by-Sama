@@ -1,1 +1,1 @@
-# tools-fofr-data-Science-by-Sama
+# tools-for-data-Science-by-Sama
